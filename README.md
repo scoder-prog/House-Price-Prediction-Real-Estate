@@ -1,0 +1,2 @@
+# House-Price-Prediction-Real-Estate
+Machine Learning Project- House Price Prediction Model Using Python, analyzed the problem from collecting data, importing it to a Jupyter notebook, looking for promising attributes, finding out correlations, plotting graphs, creating a pipeline, dealing with missing values. Building model for predicting house prices given a set of features by cross validation, train-test splitting, stratified shuffle split and using ML algorithms.
